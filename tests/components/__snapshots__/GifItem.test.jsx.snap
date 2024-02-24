@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tests on <GifItem /> should match snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Saitama is the best hero"
+      src="https://one-punch.com/saitama.jpg"
+    />
+    <p>
+      Saitama is the best hero
+    </p>
+  </div>
+</div>
+`;
