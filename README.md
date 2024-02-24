@@ -1,8 +1,24 @@
-# React + Vite
+# React Gif Expert App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Little application on React to get gif animation using the Giphy API
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+
+Install react-gif-expert-app
+
+```bash
+  npm install -g yarn
+  yarn
+```
+
+Run application
+
+```bash
+  yarn dev
+```
+    
+## Author
+
+- [@k3rnel-err0r](https://github.com/k3rnel-err0r)
+
